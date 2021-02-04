@@ -1,5 +1,4 @@
 # Android_Projekt
-Projekt zaliczeniowy z Android Studio
 
 Stworzyliśmy aplikacje meteorologiczną, działającą w systemie Android.
 Pozwala ona na obliczenie temperatury punktu rosy na podstawie wilgotności oraz podanej temperatury, 
@@ -40,3 +39,5 @@ Wykorzystane funkcje:
 Kompatybilność z wersjami android(SDK): 
 minimum: 23(6.0)
 docelowe: 30(11.0)
+
+Autorzy: Oskar Cyms, Michał Piotrowski
